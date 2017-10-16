@@ -1,7 +1,7 @@
 /********************************************************************
  * file: Student.java
  * author: TszWai Yan
- * class: CS356 - Computer Graphics
+ * class: CS356 - Object-Oriented​ ​Design​ ​and​ ​Programming
  * 
  * assignment: Programming​ ​Assignment​ ​1​ ​-​ ​iVote​ ​Simulator
  * date last modified: 10/16/2017
